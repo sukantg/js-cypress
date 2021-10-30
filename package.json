@@ -1,0 +1,22 @@
+{
+  "name": "js-cypress",
+  "version": "1.0.0",
+  "description": "Javascript + Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sukantg/js-cypress.git"
+  },
+  "author": "Sukant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sukantg/js-cypress/issues"
+  },
+  "homepage": "https://github.com/sukantg/js-cypress#readme",
+  "devDependencies": {
+    "cypress": "^8.7.0"
+  }
+}
